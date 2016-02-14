@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42D8C96FF5D0D88CF59B7B11DA9274FC8EB685D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C44D340AA01E7EB2B1BC127EFF78E11062F2C1C0" : 0,
+    "42D8C96FF5D0D88CF59B7B11DA9274FC8EB685D9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D27A9F50-4768-4ADB-AF19-C6385F8733C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C44D340AA01E7EB2B1BC127EFF78E11062F2C1C0" : "",
+    "42D8C96FF5D0D88CF59B7B11DA9274FC8EB685D9" : "ClapTech\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ClapTech",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ClapTech.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:take1haru\/Clap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42D8C96FF5D0D88CF59B7B11DA9274FC8EB685D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:take1haru\/iPhone-course-submit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C44D340AA01E7EB2B1BC127EFF78E11062F2C1C0"
+    }
+  ]
+}
